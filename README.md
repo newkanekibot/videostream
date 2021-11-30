@@ -14,7 +14,7 @@
 </p>
 
 ## 📊 Stats
-[![CodeFactor](https://www.codefactor.io/repository/github/newkanekibot/video-stream/badge)](https://www.codefactor.io/repository/github/newkanekibot/video-stream)
+[![CodeFactor](https://www.codefactor.io/repository/github/newkanekibot/videostream/badge)](https://www.codefactor.io/repository/github/newkanekibot/videostream)
 
 ## 🧪 Get `SESSION_NAME` from below:
 
@@ -63,7 +63,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/newkanekibot/video-stream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/newkanekibot/videostream)
 
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
@@ -87,6 +87,7 @@ python3 main.py # run the bot.
 
 # Credits 💖
 
+- [kaneki](https://github.com/newkanekibot) ``Dev``
 - [Levina](https://github.com/levina-lab) ``Dev``
 - [Zxce3](https://github.com/Zxce3) ``Dev``
 - [DoellBarr](https://github.com/DoellBarr) ``Dev``
